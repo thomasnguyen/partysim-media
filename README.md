@@ -8,6 +8,8 @@ Animated loops for the PartySim project page (Kiroween 2026). AVIF, 30 fps, 10-b
 - `loops/r5-scare.avif`: a scare cue in the living room
 - `loops/r6-guest-card.avif`: tap a guest and read their night
 - `loops/r7-shop-glow.avif`: point at a line on the shopping list and its pumpkins glow
-- `loops/s0-setup.avif`: the walls rise from the floor plan and a look dresses the house
+- `loops/s0-setup-v2.avif`: a floor plan becomes a house, then our house gets its photos, a look and night
+- `loops/s0-setup.avif`: an earlier cut of the same
 - `loops/a14-wedding.avif`: next: an invented garden venue for a wedding
 - `loops/r1-night-falls*.avif`, `r1-night-falls-compare.webp`: the 14 Nov format tests
+- `loops/crew.png`: the Kiro crew, from request to pull request
