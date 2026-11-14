@@ -17,3 +17,4 @@ Animated loops for the PartySim project page (Kiroween 2026). AVIF, 30 fps, 10-b
 - `loops/crew-pictures.jpg`: the crew runs on pictures (pull request #6)
 - `loops/crew-timeline.jpg`: every pull request the crew opened, 10 to 13 November
 - `loops/wedding.jpg`: the wedding preview, a still
+- `loops/green-checks.jpg`: three overnight builds that passed the build and lint and were wrong
