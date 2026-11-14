@@ -13,3 +13,6 @@ Animated loops for the PartySim project page (Kiroween 2026). AVIF, 30 fps, 10-b
 - `loops/a14-wedding.avif`: next: an invented garden venue for a wedding
 - `loops/r1-night-falls*.avif`, `r1-night-falls-compare.webp`: the 14 Nov format tests
 - `loops/crew.png`: the Kiro crew, from request to pull request
+- `loops/crew-loop.avif`: the crew at work, from a request to main
+- `loops/crew-pictures.jpg`: the crew runs on pictures (pull request #6)
+- `loops/crew-timeline.jpg`: every pull request the crew opened, 10 to 13 November
